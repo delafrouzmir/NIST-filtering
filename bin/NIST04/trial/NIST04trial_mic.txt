@@ -1,0 +1,6 @@
+-
+handset
+earbud
+spkr_phone
+headphone
+unknown

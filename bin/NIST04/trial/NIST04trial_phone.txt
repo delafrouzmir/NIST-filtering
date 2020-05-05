@@ -1,0 +1,5 @@
+-
+regular_phone
+cellphone
+cordless_phone
+unknown

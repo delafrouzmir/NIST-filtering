@@ -1,0 +1,43 @@
+ACE	Aceh
+AMH	Amharic
+BEN	Bengali
+BUR	Burmese
+CHE	Chechen
+FAR	Farsi
+FRA	French
+GEO	Georgian
+DEU	German
+GRN	Guarani
+HIN	Hindi
+ITA	Italian
+JPN	Japanese
+KHM	Khmer
+KOR	Korean
+LAO	Lao
+PAN	Punjabi
+RUS	Russian
+SPA	Spanish
+TGL	Tagalog
+TAM	Tamil
+THA	Thai
+TIR	Tigrigna
+UKR	Ukrainian
+URD	Urdu
+UZB	Uzbek
+VIE	Vietnamese
+ARQ	Arabic: Algerian
+AYL	Arabic: Libyan
+ARY	Arabic: Moroccan
+ARB	Arabic: standard
+AEB	Arabic: Tunisian
+YUH	Chinese: Cantonese (Guangdong Hua/Yue Yu)
+WUU	Chinese: Shanghai Wu Dialect (Shanghai Hua)
+CFR	Chinese: Southern Min/Taiwanese (Min Nan Hua/Taiwan Hua)
+CHN	Chinese: Standard Mandarin (Putonghua)
+USE	English: American
+GBE	English: British
+AUE	English: Australian/New Zealand
+ENG	English: ESL/varied
+INE	English: Indian
+SPC	Spanish: Caribbean
+SPN	Spanish: Non-Caribbean
